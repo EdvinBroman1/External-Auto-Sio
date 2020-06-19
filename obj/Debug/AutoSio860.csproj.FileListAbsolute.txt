@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\bin\Debug\AutoSio860.exe.config
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\bin\Debug\AutoSio860.exe
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\bin\Debug\AutoSio860.pdb
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.Form1.resources
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.Properties.Resources.resources
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.exe
+C:\Users\Admin\source\repos\AutoSio860\AutoSio860\obj\Debug\AutoSio860.pdb
